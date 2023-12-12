@@ -1,0 +1,14 @@
+D:\bach177-179\Batch177179_CharpBasic\DatabaseFirstDemo\bin\Debug\net7.0\DatabaseFirstDemo.deps.json
+D:\bach177-179\Batch177179_CharpBasic\DatabaseFirstDemo\bin\Debug\net7.0\DatabaseFirstDemo.runtimeconfig.json
+D:\bach177-179\Batch177179_CharpBasic\DatabaseFirstDemo\bin\Debug\net7.0\DatabaseFirstDemo.dll
+D:\bach177-179\Batch177179_CharpBasic\DatabaseFirstDemo\bin\Debug\net7.0\DatabaseFirstDemo.pdb
+D:\bach177-179\Batch177179_CharpBasic\DatabaseFirstDemo\obj\Debug\net7.0\DatabaseFirstDemo.csproj.AssemblyReference.cache
+D:\bach177-179\Batch177179_CharpBasic\DatabaseFirstDemo\obj\Debug\net7.0\DatabaseFirstDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\bach177-179\Batch177179_CharpBasic\DatabaseFirstDemo\obj\Debug\net7.0\DatabaseFirstDemo.AssemblyInfoInputs.cache
+D:\bach177-179\Batch177179_CharpBasic\DatabaseFirstDemo\obj\Debug\net7.0\DatabaseFirstDemo.AssemblyInfo.cs
+D:\bach177-179\Batch177179_CharpBasic\DatabaseFirstDemo\obj\Debug\net7.0\DatabaseFirstDemo.csproj.CoreCompileInputs.cache
+D:\bach177-179\Batch177179_CharpBasic\DatabaseFirstDemo\obj\Debug\net7.0\DatabaseFirstDemo.dll
+D:\bach177-179\Batch177179_CharpBasic\DatabaseFirstDemo\obj\Debug\net7.0\refint\DatabaseFirstDemo.dll
+D:\bach177-179\Batch177179_CharpBasic\DatabaseFirstDemo\obj\Debug\net7.0\DatabaseFirstDemo.pdb
+D:\bach177-179\Batch177179_CharpBasic\DatabaseFirstDemo\obj\Debug\net7.0\DatabaseFirstDemo.genruntimeconfig.cache
+D:\bach177-179\Batch177179_CharpBasic\DatabaseFirstDemo\obj\Debug\net7.0\ref\DatabaseFirstDemo.dll
